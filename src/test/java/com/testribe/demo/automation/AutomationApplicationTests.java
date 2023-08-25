@@ -31,14 +31,14 @@ public class AutomationApplicationTests  extends TestTribeBaseTest{
 	}
 
 	@Test
-	@Description("Verify valid user login")
+	@Description("Verify valid user login test")
 	void LoginTestFailed() {
 
 		loginPage.Navigate();
 		loginPage.setEmail("admin@yourstore.com");
 		loginPage.setPassword("admin");
 		loginPage.performLogin();
-//		Assert.assertTrue(false);
+		Assert.assertTrue(false);
 
 	}
 }
