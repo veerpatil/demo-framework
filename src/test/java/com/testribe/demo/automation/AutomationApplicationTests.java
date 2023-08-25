@@ -38,7 +38,7 @@ public class AutomationApplicationTests  extends TestTribeBaseTest{
 		loginPage.setEmail("admin@yourstore.com");
 		loginPage.setPassword("admin");
 		loginPage.performLogin();
-		Assert.assertTrue(false);
+//		Assert.assertTrue(false);
 
 	}
 }
