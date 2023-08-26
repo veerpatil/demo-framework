@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Aug 26 07:52:37 GMT 2023","Sat Aug 26 07:52:38 GMT 2023","676","Surefire suite","Surefire test","com.testribe.demo.automation.AutomationApplicationTests","com.testribe.demo.automation.AutomationApplicationTests","LoginTestFailed","LoginTestFailed","Verify valid user login test"
+"passed","Sat Aug 26 07:52:29 GMT 2023","Sat Aug 26 07:52:37 GMT 2023","7715","Surefire suite","Surefire test","com.testribe.demo.automation.AutomationApplicationTests","com.testribe.demo.automation.AutomationApplicationTests","LoginTest","LoginTest","Verify valid user login"
